@@ -8,12 +8,12 @@
 Summary:	Regexp::Ethiopic - Regular Expressions support for Ethiopic Script
 Summary(pl):	Regexp::Ethiopic - obs³uga wyra¿eñ regularnych dla pisma etiopskiego
 Name:		perl-Regexp-Ethiopic
-Version:	0.13
+Version:	0.14
 Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	13189338a675e6c2be058769d51283b3
+# Source0-md5:	343e6728a374287cc9c520ecf94a204b
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
