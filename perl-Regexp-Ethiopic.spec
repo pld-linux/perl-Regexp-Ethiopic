@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Regexp
-%define	pnam	Ethiopic
+%define		pdir	Regexp
+%define		pnam	Ethiopic
 Summary:	Regexp::Ethiopic - regular expressions support for Ethiopic script
 Summary(pl):	Regexp::Ethiopic - obs³uga wyra¿eñ regularnych dla pisma etiopskiego
 Name:		perl-Regexp-Ethiopic
