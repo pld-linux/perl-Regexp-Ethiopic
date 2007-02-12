@@ -6,7 +6,7 @@
 %define		pdir	Regexp
 %define		pnam	Ethiopic
 Summary:	Regexp::Ethiopic - regular expressions support for Ethiopic script
-Summary(pl):	Regexp::Ethiopic - obs≥uga wyraøeÒ regularnych dla pisma etiopskiego
+Summary(pl.UTF-8):   Regexp::Ethiopic - obs≈Çuga wyra≈ºe≈Ñ regularnych dla pisma etiopskiego
 Name:		perl-Regexp-Ethiopic
 Version:	0.14
 Release:	1
@@ -25,11 +25,11 @@ definitions for working with the Ethiopic syllabary. The character
 classes provided by the Regexp::Ethiopic package correspond to inate
 properties of the script and are language independent.
 
-%description -l pl
-Modu≥ Regexp::Ethiopic dostarcza definicje klas znakÛw w stylu POSIX
-dzia≥aj±ce z etiopskim pismem sylabicznym. Klasy znakÛw dostarczone
-przez pakiet Regexp::Ethiopic odpowiadaj± w≥asno∂ciom pisma i s±
-niezaleøne od jÍzyka.
+%description -l pl.UTF-8
+Modu≈Ç Regexp::Ethiopic dostarcza definicje klas znak√≥w w stylu POSIX
+dzia≈ÇajƒÖce z etiopskim pismem sylabicznym. Klasy znak√≥w dostarczone
+przez pakiet Regexp::Ethiopic odpowiadajƒÖ w≈Çasno≈õciom pisma i sƒÖ
+niezale≈ºne od jƒôzyka.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
