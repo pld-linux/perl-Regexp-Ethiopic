@@ -6,7 +6,7 @@
 %define		pdir	Regexp
 %define		pnam	Ethiopic
 Summary:	Regexp::Ethiopic - regular expressions support for Ethiopic script
-Summary(pl.UTF-8):   Regexp::Ethiopic - obsługa wyrażeń regularnych dla pisma etiopskiego
+Summary(pl.UTF-8):	Regexp::Ethiopic - obsługa wyrażeń regularnych dla pisma etiopskiego
 Name:		perl-Regexp-Ethiopic
 Version:	0.14
 Release:	1
