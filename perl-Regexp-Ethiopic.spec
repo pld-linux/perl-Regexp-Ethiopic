@@ -9,7 +9,7 @@ Summary:	Regexp::Ethiopic - regular expressions support for Ethiopic script
 Summary(pl.UTF-8):	Regexp::Ethiopic - obsługa wyrażeń regularnych dla pisma etiopskiego
 Name:		perl-Regexp-Ethiopic
 Version:	0.14
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
