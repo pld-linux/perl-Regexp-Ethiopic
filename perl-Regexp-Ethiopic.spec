@@ -4,7 +4,6 @@
 
 %define		pdir	Regexp
 %define		pnam	Ethiopic
-%include	/usr/lib/rpm/macros.perl
 Summary:	Regexp::Ethiopic - regular expressions support for Ethiopic script
 Summary(pl.UTF-8):	Regexp::Ethiopic - obsługa wyrażeń regularnych dla pisma etiopskiego
 Name:		perl-Regexp-Ethiopic
